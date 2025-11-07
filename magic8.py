@@ -33,3 +33,5 @@ else:
     answer = 'Error'
 
 print('Answer: ' + answer)
+
+print('hej' 'med dig')
